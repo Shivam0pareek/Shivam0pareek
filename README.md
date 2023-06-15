@@ -32,10 +32,6 @@ Welcome to my GitHub profile! I'm a dedicated BCA and MCA student with a passion
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
 
-
-<br>
-
-
 </br></br>
 	
 ## 🐍 A Snake Eating my Contributions Graph
@@ -44,5 +40,3 @@ Welcome to my GitHub profile! I'm a dedicated BCA and MCA student with a passion
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
 
-
-Last Edited on: 30/11/2021
